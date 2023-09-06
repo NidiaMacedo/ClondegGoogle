@@ -22,7 +22,7 @@ Contiene las siguientes secciones:
   
 * **Footer:** Sección que incluye enlaces eternos al final de la página.
 Las tecnologías que utilice son:
-#<img src="https://img.shields.io/badge/HTML5-E34F266?style=for-the-badge&logo=html5&logoColor=white/>
+<img src="https://img.shields.io/badge/HTML5-E34F266?style=for-the-badge&logo=html5&logoColor=white/>
 
 ## 3. Objetivo del proyecto
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
