@@ -21,7 +21,10 @@ Contiene las siguientes secciones:
 * **Main:** Sección del contenedor para los elementos centrales dela página: logo, barra de búsquedad, iconos y botones.
   
 * **Footer:** Sección que incluye enlaces eternos al final de la página.
+
+  
 Las tecnologías que utilice son:
+
 <img src="https://img.shields.io/badge/HTML5-E34F266?style=for-the-badge&logo=html5&logoColor=white/>
 
 ## 3. Objetivo del proyecto
